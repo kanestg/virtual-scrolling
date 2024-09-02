@@ -1,0 +1,16 @@
+.scroll-container {
+    height: 80vh;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+  }
+  
+  .item {
+    padding: 16px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .loading {
+    padding: 16px;
+    text-align: center;
+  }
+  
